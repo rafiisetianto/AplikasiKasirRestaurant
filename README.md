@@ -37,5 +37,5 @@ Struktur package dan class:
 <h4>0. Keluar</h4>
 <img width="500" height="300" alt="Screenshot 2025-10-03 234029" src="https://github.com/user-attachments/assets/0ed6e61e-0834-4440-8359-da203299a0fa" />
 <h3>Link video Youtube</h3>
-Link:https://youtu.be/Slhhaq33XlU
+Link: https://youtu.be/Slhhaq33XlU
 
